@@ -22,6 +22,8 @@ header{
     width: 100%;
 }
 
+
+
 main{
     align-items: center;
     background-color: #fafafa;
@@ -34,6 +36,15 @@ main{
     width: 100%;
 }
 
+
+
 footer{
-    
+    align-items: center;
+    background-color: #333333;
+    color: #fbfbfb;
+    display: flex;
+    height: 49px;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
 }
